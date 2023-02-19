@@ -5,7 +5,7 @@
 ![Google Cloud Platform](https://img.shields.io/badge/Platform-Google%20Cloud-blue)
 
 
-<a href="https://nowstackit.com" target="_blank"><img src="" border="0" title="StackIt!" alt="StackIt!"></a>
+<a href="https://nowstackit.com" target="_blank"><img src="https://raw.githubusercontent.com/nowstackit/.github/main/profile/StackIt_github.png" border="0" title="StackIt!" alt="StackIt!"></a>
 
 <h3 align="center"> Hello World! </h3>
 <h4 align="center"> Did you know All data lead to spreadsheets? That is why we are building StackIt. </h4>
