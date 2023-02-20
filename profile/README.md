@@ -4,8 +4,8 @@
 ![Frontend](https://img.shields.io/badge/frontend-reactjs-blue)
 ![Google Cloud Platform](https://img.shields.io/badge/Platform-Google%20Cloud-blue)
 
-
-<a href="https://nowstackit.com" target="_blank"><img src="https://raw.githubusercontent.com/nowstackit/.github/main/profile/StackIt_github.png" border="0" title="StackIt!" alt="StackIt!"></a>
+<p align="center">
+<a href="https://nowstackit.com" target="_blank"><img src="https://raw.githubusercontent.com/nowstackit/.github/main/profile/MacBook%20Air%20-%206.1.png" border="0" height="550px" width="1000px" title="StackIt!" alt="StackIt!"></a> </p>
 
 <h3 align="center"> Hello World! </h3>
 <h4 align="center"> Did you know all data lead to spreadsheets? That is why we are building StackIt. </h4>
