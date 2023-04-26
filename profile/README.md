@@ -1,5 +1,5 @@
 ![Website](https://img.shields.io/website?up_color=green&up_message=up%20%26%20running&url=https%3A%2F%2Fwww.nowstackit.com%2F)
-![We will be hiring soon](https://img.shields.io/badge/hiring-soon-orange)
+![We are hiring](https://img.shields.io/badge/hiring-yes-important)
 ![Backend](https://img.shields.io/badge/backend-nodejs-blue)
 ![Frontend](https://img.shields.io/badge/frontend-reactjs-blue)
 ![Google Cloud Platform](https://img.shields.io/badge/Platform-Google%20Cloud-blue)
